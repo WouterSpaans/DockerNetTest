@@ -1,0 +1,11 @@
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/bin/Debug/netcoreapp2.2/ConsoleApp.SQLite.deps.json
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/bin/Debug/netcoreapp2.2/ConsoleApp.SQLite.runtimeconfig.json
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/bin/Debug/netcoreapp2.2/ConsoleApp.SQLite.runtimeconfig.dev.json
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/bin/Debug/netcoreapp2.2/ConsoleApp.SQLite.dll
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/bin/Debug/netcoreapp2.2/ConsoleApp.SQLite.pdb
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/obj/Debug/netcoreapp2.2/ConsoleApp.SQLite.csprojAssemblyReference.cache
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/obj/Debug/netcoreapp2.2/ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/obj/Debug/netcoreapp2.2/ConsoleApp.SQLite.AssemblyInfoInputs.cache
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/obj/Debug/netcoreapp2.2/ConsoleApp.SQLite.AssemblyInfo.cs
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/obj/Debug/netcoreapp2.2/ConsoleApp.SQLite.dll
+/home/wouter/Projects/DockerNetTest/ConsoleApp.SQLite/obj/Debug/netcoreapp2.2/ConsoleApp.SQLite.pdb
